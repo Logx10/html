@@ -1,0 +1,15 @@
+* {
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Deixando a fonte de toda a pagina padrão*/
+}
+ul, ol, li {
+    list-style: none;
+}
+
+/* essa pagina serve para resetar todas as predefinições de margens, pads, bordas, tamanhos de bordas criadas pelos navegadores
+afim de previnir bugs e incompatibilidades
